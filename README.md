@@ -8,7 +8,7 @@ This project focuses on analyzing customer response to marketing campaigns using
 
 ## 📁 Dataset Overview
 
-The project uses two datasets located in the `dataset` folder:
+The following datasets are organized under the data/ directory of this repository:
 
 ### 1. `raw_marketing_dataset.xlsx`  
 - Original raw dataset provided for analysis  
