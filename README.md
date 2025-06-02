@@ -25,9 +25,9 @@ The project uses two datasets located in the `dataset` folder:
 📚 More Information
 For detailed documentation, methodology, and ongoing project notes, please refer to the Notion page below:
 
-👉 View Full Project Details on Notion
+👉[View Full Project Details on Notion](https://www.notion.so/Marketing-Campaign-analysis-1fd1279cd9ac8008b096c11dd8a5a695?source=copy_link)
 
 🔗 Dataset Source
-The original raw dataset used in this project can be found on Maven Analytics:
+The original raw dataset used in this project can be found on Maven Analytics: 
 
-📥 Hospital Readmissions Dataset on Maven Analytics
+📥 [Maven Marketing Dataset](https://mavenanalytics.io/challenges/maven-marketing-challenge/81e88e85-3883-4633-b721-16c8da450965)
